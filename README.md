@@ -25,7 +25,7 @@ Time series analysis from the movie Chicago 2002. Open "Movie_Tickets_Time_Serie
 
 ## Accuracy of Model
 
-- Used visualizations to determine is the time series improved the accuracy of the model.
+- Used visualizations to determine if the time series improved the accuracy of the model.
 
 ## Conclusion
 
