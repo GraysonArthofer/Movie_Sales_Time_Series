@@ -1,5 +1,5 @@
 # Movie_Sales_Time_Series
-Time series analysis from the movie Chicago 2002. Open "Movie_Tickets_Time_Series.ipynb" to view. The project uses the programming language R. 
+Time series analysis from the movie Chicago 2002. Open "Movie_Tickets_Time_Series.ipynb" to view. The project uses the programming language R. Also, this project serves as a tutorial on time series analysis.
 
 ## Data Extraction
 
